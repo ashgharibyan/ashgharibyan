@@ -1,5 +1,6 @@
 
-![Logo](https://i.imgur.com/4svPCq6.jpg)
+![linkedin bg](https://user-images.githubusercontent.com/119915091/218886191-2e862b9a-1ed8-4f02-8b4f-6277ee2a7dec.jpg)
+
 
 
 # Ashot Gharibyan
