@@ -40,6 +40,13 @@ Feel free to contact me to discuss how I can bring my skills and experience to y
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashgharibyan/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gharibyanash/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ashgharibyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashgharibyan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashgharibyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashgharibyan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21102541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21102541" height="30" width="40" /></a>
+<a href="https://instagram.com/ashgharibyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashgharibyan" height="30" width="40" /></a>
+<a href="https://www.behance.net/ashgharibyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ashgharibyan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashghcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashghcode" height="30" width="40" /></a>
+</p>
 
