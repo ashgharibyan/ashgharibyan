@@ -16,7 +16,7 @@ Feel free to contact me to discuss how I can bring my skills and experience to y
 ### Tools & Technologies
 💻Languages: Python, Java, JavaScript(ES6, Node.js), HTML5, CSS, SQL, Swift, C++
 
-🛠️Frameworks/Libraries: Flask, Jinja2, Spring MVC, jQuery, React, Express, Bootstrap, JUnit
+🛠️Frameworks/Libraries: Django, Flask, Jinja2, Spring MVC, jQuery, React, Express, Bootstrap, JUnit
 
 🗄️Databases: MySQL, MongoDB
 
