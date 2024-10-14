@@ -88,7 +88,6 @@ Feel free to contact me to discuss how I can bring my skills and experience to y
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashgharibyan&show_icons=true&locale=en&layout=compact" alt="ashgharibyan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashgharibyan&show_icons=true&locale=en" alt="ashgharibyan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashgharibyan&" alt="ashgharibyan" /></p>
 
