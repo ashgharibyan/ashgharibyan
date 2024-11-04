@@ -1,78 +1,57 @@
-
 ![linkedin bg](https://user-images.githubusercontent.com/119915091/218886191-2e862b9a-1ed8-4f02-8b4f-6277ee2a7dec.jpg)
-
 
 # Ashot Gharibyan
 #### Full Stack Developer based in Los Angeles, CA
 
-
-I am a highly motivated and skilled Full Stack Developer with a passion for creating beautiful, functional and user-friendly websites. With a strong background in Python, Java, JavaScript, HTML5, CSS and various web development frameworks and libraries, I have the technical skills and experience to turn your ideas into reality. I have worked on a wide range of projects, from simple websites to complex web applications and I am always eager to learn new technologies and development methods.
-
-I am also a self-starter and a fast learner, with a keen eye for detail and a commitment to producing high-quality work. Whether working independently or as part of a team, I am always focused on delivering projects that meet or exceed expectations.
-
-Feel free to contact me to discuss how I can bring my skills and experience to your next project.
-
+I am a Full Stack Developer with a passion for building user-centric applications that streamline and enhance digital experiences. My expertise spans multiple programming languages and frameworks, including JavaScript, Python, Java, and SQL, allowing me to create versatile and efficient solutions. I have experience working on complex web and mobile applications, from organizing sports games to automating workflows. With a keen eye for detail and a commitment to quality, I am dedicated to delivering solutions that not only meet but exceed expectations.
 
 ### Tools & Technologies
-💻Languages: Python, Java, JavaScript(ES6, Node.js), HTML5, CSS, SQL, Swift, C++
+💻 **Languages:** JavaScript (ES6, Node.js), TypeScript, Python, Java, SQL (MySQL, PostgreSQL), HTML, CSS  
+🛠️ **Frameworks/Libraries:** React, Next.js, Node.js, Django, Express, Spring, Tailwind CSS, Bootstrap, Mantine  
+🗄️ **Databases:** MySQL, PostgreSQL, MongoDB  
+🔧 **Developer Tools:** Docker, Git, GitHub, Vercel, Jira, MySQL Workbench, Postman
 
-🛠️Frameworks/Libraries: Django, Flask, Jinja2, Spring MVC, jQuery, React, Express, Tailwind, Bootstrap, JUnit
-
-🗄️Databases: MySQL, MongoDB
-
-🔧Tools: AJAX, JSON, JSP, JPA Hibernate, Socket.io, AWS(EC2), MySQL Workbench, Git, Github, Thymeleaf, Tomcat, JVM
-<p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-        width="40" height="40" /> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-        width="40" height="40" /> </a><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-    </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="40" height="40" /> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5" width="40" height="40" /> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-        width="40" height="40" /> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" /> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express" width="40" height="40" /> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb" width="40" height="40" /> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="40" height="40" /> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="40" height="40" /> </a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift"
-        width="40" height="40" /> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-        alt="cplusplus" width="40" height="40" /> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap" width="40" height="40" /> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-        width="40" height="40" /> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-        alt="photoshop" width="40" height="40" /> </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-        alt="aws" width="40" height="40" /> </a></p>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" />
+  </a>
+</p>
 
 ### Technical Projects
-- Multiplayer Rock, Paper, Scissors game using Flask, Python, and Socket.io
-- iOS game using Swift to challenge users to improve their concentration
-- Full Stack application in Python built to control fountain lights and choreographed to music
+- **LeagueAtlas** | _React Native, Expo, Prisma, PostgreSQL_  
+  Developed a cross-platform mobile app for organizing pickup sports games, with streamlined team and player management, custom UI components, and a fast, globally accessible platform deployed on Vercel.
+  
+- **ChronoFlow** | _Next.js, Node.js, TypeScript, Prisma, PostgreSQL_  
+  Created a scalable workflow management system for faculty, featuring a secure backend and efficient data storage with PostgreSQL, deployed on Vercel for optimized accessibility.
+
+- **GymGenieAI** | _Next.js, TypeScript, tRPC, Prisma, OpenAI API_  
+  Built a responsive web app offering personalized workout plans through OpenAI API integration, with user authentication by Kinde and Supabase as the database solution.
 
 ### Professional Experience
-- Independent Contractor for Web Design
-- Operational Director at AB Media USA, leading a team of 10 marketing project managers
+- **Co-Founder & Full Stack Developer** | _LeagueAtlas Inc._  
+  Building a sports game organization platform with a focus on enhancing user experience through cross-platform compatibility and optimized backend operations.
+  
+- **Web Developer** | _Independent Contractor_  
+  Developed 30+ websites for local businesses on platforms such as Wix, Shopify, and WordPress.
 
 ### Education
-- Full-Stack Developer Certificate in Python, Java, and MERN from Coding Dojo
-- Computer Science major at Cal State University of Northridge
-- Associate Degrees in Math and Physics from Glendale Community College
+- **B.S. in Computer Science** | _California State University, Northridge (Expected May 2025)_  
+- **Associate’s Degrees in Math and Physics** | _Glendale Community College_
 
 ## 🔗 Links
 
