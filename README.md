@@ -7,7 +7,7 @@ I am a Full Stack Developer with a passion for building user-centric application
 
 ### Tools & Technologies
 💻 **Languages:** JavaScript (ES6, Node.js), TypeScript, Python, Java, SQL (MySQL, PostgreSQL), HTML, CSS  
-🛠️ **Frameworks/Libraries:** React, Next.js, Node.js, Django, Express, Spring, Tailwind CSS, Bootstrap, Mantine  
+🛠️ **Frameworks/Libraries:** React, React Native, Expo, Next.js, Node.js, Django, Express, Spring, Tailwind CSS, Bootstrap, Mantine  
 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB  
 🔧 **Developer Tools:** Docker, Git, GitHub, Vercel, Jira, MySQL Workbench, Postman
 
