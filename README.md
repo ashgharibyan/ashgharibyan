@@ -1,4 +1,5 @@
-![linkedin bg](https://user-images.githubusercontent.com/119915091/218886191-2e862b9a-1ed8-4f02-8b4f-6277ee2a7dec.jpg)
+![bg](https://github.com/user-attachments/assets/b13fefec-b321-4808-bede-ff64b6bdecfe)
+
 
 # Ashot Gharibyan
 #### Full Stack Developer based in Los Angeles, CA
