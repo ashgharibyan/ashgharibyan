@@ -1,6 +1,3 @@
-![bg](https://github.com/user-attachments/assets/b13fefec-b321-4808-bede-ff64b6bdecfe)
-
-
 # Ashot Gharibyan
 #### Full Stack Developer based in Los Angeles, CA
 
