@@ -1,72 +1,64 @@
 # Ashot Gharibyan
-#### Full Stack Developer based in Los Angeles, CA
+#### Full Stack Developer | AI Enthusiast | Based in Los Angeles, CA
 
-I am a Full Stack Developer with a passion for building user-centric applications that streamline and enhance digital experiences. My expertise spans multiple programming languages and frameworks, including JavaScript, Python, Java, and SQL, allowing me to create versatile and efficient solutions. I have experience working on complex web and mobile applications, from organizing sports games to automating workflows. With a keen eye for detail and a commitment to quality, I am dedicated to delivering solutions that not only meet but exceed expectations.
+I'm a Full Stack Developer passionate about building scalable, user-focused applications—from mobile platforms to workflow systems. I specialize in JavaScript, TypeScript, Python, and SQL, and I’ve built products across industries: from AI-powered fitness apps to community-based food marketplaces. Currently pursuing a Master’s in Computer Science (ML specialization) at Georgia Tech and completing my B.S. at CSUN.
 
-### Tools & Technologies
-💻 **Languages:** JavaScript (ES6, Node.js), TypeScript, Python, Java, SQL (MySQL, PostgreSQL), HTML, CSS  
-🛠️ **Frameworks/Libraries:** React, React Native, Expo, Next.js, Node.js, Django, Express, Spring, Tailwind CSS, Bootstrap, Mantine  
-🗄️ **Databases:** MySQL, PostgreSQL, MongoDB  
-🔧 **Developer Tools:** Docker, Git, GitHub, Vercel, Jira, MySQL Workbench, Postman
+---
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" />
-  </a>
-</p>
+### 🛠 Tools & Technologies
+**Languages:** JavaScript, TypeScript, Python, Java, SQL, HTML/CSS  
+**Frameworks/Libraries:** React, React Native, Next.js, Node.js, Django, Spring Boot, tRPC, Express  
+**Databases:** PostgreSQL, MySQL, Supabase, MongoDB  
+**Dev Tools:** Docker, Git, Vercel, Postman, Jira, Zustand, React Query, Mantine, NativeWind  
 
-### Technical Projects
-- **LeagueAtlas** | _React Native, Expo, Prisma, PostgreSQL_  
-  Developed a cross-platform mobile app for organizing pickup sports games, with streamlined team and player management, custom UI components, and a fast, globally accessible platform deployed on Vercel.
-  
-- **ChronoFlow** | _Next.js, Node.js, TypeScript, Prisma, PostgreSQL_  
-  Created a scalable workflow management system for faculty, featuring a secure backend and efficient data storage with PostgreSQL, deployed on Vercel for optimized accessibility.
+---
 
-- **GymGenieAI** | _Next.js, TypeScript, tRPC, Prisma, OpenAI API_  
-  Built a responsive web app offering personalized workout plans through OpenAI API integration, with user authentication by Kinde and Supabase as the database solution.
+### 🚀 Featured Projects
 
-### Professional Experience
-- **Co-Founder & Full Stack Developer** | _LeagueAtlas Inc._  
-  Building a sports game organization platform with a focus on enhancing user experience through cross-platform compatibility and optimized backend operations.
-  
-- **Web Developer** | _Independent Contractor_  
-  Developed 30+ websites for local businesses on platforms such as Wix, Shopify, and WordPress.
+- **HomeFoods** | _React Native, Django, Stripe, Zustand, React Query_  
+  A mobile platform connecting users with local home chefs. Built with Expo and Django, featuring secure Stripe payments and global state management.
 
-### Education
-- **B.S. in Computer Science** | _California State University, Northridge (Expected May 2025)_  
-- **Associate’s Degrees in Math and Physics** | _Glendale Community College_
+- **LeagueAtlas** | _Expo, React Native, Prisma, PostgreSQL_  
+  A mobile-first app for organizing pickup games, with real-time team/player features and Vercel deployment.
 
-## 🔗 Links
+- **ChronoFlow** | _Next.js, TypeScript, Node.js, PostgreSQL_  
+  A scalable task and workflow management tool for faculty at CSUN, using Prisma and secure routing with Vercel deployment.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashgharibyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashgharibyan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashgharibyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashgharibyan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21102541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21102541" height="30" width="40" /></a>
-<a href="https://instagram.com/ashgharibyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashgharibyan" height="30" width="40" /></a>
-<a href="https://www.behance.net/ashgharibyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ashgharibyan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashghcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashghcode" height="30" width="40" /></a>
-</p>
+- **GymGenieAI** | _Next.js, tRPC, OpenAI API, Prisma, Supabase_  
+  Personalized workout generator using OpenAI with Kinde-authenticated user flows.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashgharibyan&show_icons=true&locale=en&layout=compact" alt="ashgharibyan" /></p>
+---
 
+### 💼 Experience
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashgharibyan&" alt="ashgharibyan" /></p>
+- **Co-Founder & Mobile Developer** @ HomeFoods _(2024–Present)_  
+  Built and scaled a mobile platform for local chefs with React Native and Django backend.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashgharibyan&label=Profile%20views&color=0e75b6&style=flat" alt="ashgharibyan" /> </p>
+- **Co-Founder & Full Stack Developer** @ LeagueAtlas _(2024)_  
+  Led full-stack development of a sports event platform, optimizing backend systems and designing intuitive UI components.
 
+- **Freelance Web Developer** _(2015–Present)_  
+  Delivered 30+ responsive websites for small businesses using Wix, WordPress, and Shopify.
+
+---
+
+### 🎓 Education
+- **M.S. in Computer Science (Machine Learning)** | Georgia Institute of Technology _(May 2027)_  
+- **B.S. in Computer Science** | CSUN _(May 2025)_  
+- **A.A. in Math & Physics** | Glendale Community College
+
+---
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/ashgharibyan)
+[![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/ashgharibyan)
+[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/ashghcode)
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/ashgharibyan)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/ashgharibyan)
+
+---
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashgharibyan&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashgharibyan" alt="GitHub Streak" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=ashgharibyan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
